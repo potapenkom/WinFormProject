@@ -1,0 +1,14 @@
+E:\Copy\Projects\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe.config
+E:\Copy\Projects\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe
+E:\Copy\Projects\WinFormProject\WinFormProject\bin\Debug\WinFormProject.pdb
+E:\Copy\Projects\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csprojAssemblyReference.cache
+E:\Copy\Projects\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Form1.resources
+E:\Copy\Projects\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Properties.Resources.resources
+E:\Copy\Projects\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.GenerateResource.cache
+E:\Copy\Projects\WinFormProject\WinFormProject\obj\Debug\WinFormProject.exe
+E:\Copy\Projects\WinFormProject\WinFormProject\obj\Debug\WinFormProject.pdb
+E:\Copy\Projects\WinFormProject\WinFormProject\bin\Debug\EntityFramework.dll
+E:\Copy\Projects\WinFormProject\WinFormProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\Copy\Projects\WinFormProject\WinFormProject\bin\Debug\EntityFramework.xml
+E:\Copy\Projects\WinFormProject\WinFormProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\Copy\Projects\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.CopyComplete
